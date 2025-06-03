@@ -1,0 +1,9 @@
+count(*),monthname(date)
+31,January
+29,February
+31,March
+30,April
+31,May
+30,June
+31,July
+27,August
